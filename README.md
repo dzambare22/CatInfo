@@ -1,6 +1,6 @@
 # Cat-Info
 
-Learning or Starter Project with Vuex, Vue-router with a simple example there.
+Used Vue.js framework to browse cat images as per categories
 
 You can find on-going update at: https://github.com/dzambare22/CatInfo
 
@@ -28,6 +28,8 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Why Vue Framework
+Vue.js is a front-end JavaScript framework.It is an open-source framework for developing single-page applications and user interfaces.
+.Easy to understand and learn
+.High performance, readability and single file component,lightweight
+.Virtual Dom one most imporatant feature in Vue.js
