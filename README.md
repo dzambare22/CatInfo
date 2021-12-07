@@ -1,4 +1,11 @@
-# Cat-Info
+## Architectural Decisions
+
+•	Vue.js:  Vue.js is progressive javascript framework, which is lightweight, modular and provide flexible development environment.
+•	Vuetify:  Material design component for Vue.js
+•	axios:  Promise based HTTP client for the browser
+•	cli-plugin-unit-jest: Run unit tests with Jest. Jest as a JS unit testing framework and runner.
+
+## Cat-Info
 
 Used Vue.js framework to browse cat images as per categories
 
@@ -9,27 +16,24 @@ You can find on-going update at: https://github.com/dzambare22/CatInfo
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Run your tests
+## Run your unit tests
 ```
 npm run test
 ```
 
-### Lints and fixes files
+## Lints and fixes files
 ```
 npm run lint
 ```
-### Why Vue Framework
-Vue.js is a front-end JavaScript framework.It is an open-source framework for developing single-page applications and user interfaces.
-.Easy to understand and learn
-.High performance, readability and single file component,lightweight
-.Virtual Dom one most imporatant feature in Vue.js
+## Production ready
+* For VueCli applications cli will provide commands to make application ready for production support.
