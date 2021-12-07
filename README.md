@@ -1,8 +1,8 @@
-# Vuetify-Starter
+# Cat-Info
 
 Learning or Starter Project with Vuex, Vue-router with a simple example there.
 
-You can find on-going update at: https://github.com/osify/vuetify-starter
+You can find on-going update at: https://github.com/dzambare22/CatInfo
 
 ## Project setup
 ```
