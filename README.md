@@ -1,33 +1,39 @@
-# Vuetify-Starter
+## Architectural Decisions
 
-Learning or Starter Project with Vuex, Vue-router with a simple example there.
+•	Vue.js:  Vue.js is progressive javascript framework, which is lightweight, modular and provide flexible development environment.
+•	Vuetify:  Material design component for Vue.js
+•	axios:  Promise based HTTP client for the browser
+•	cli-plugin-unit-jest: Run unit tests with Jest. Jest as a JS unit testing framework and runner.
 
-You can find on-going update at: https://github.com/osify/vuetify-starter
+## Cat-Info
+
+Used Vue.js framework to browse cat images as per categories
+
+You can find on-going update at: https://github.com/dzambare22/CatInfo
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Run your tests
+## Run your unit tests
 ```
 npm run test
 ```
 
-### Lints and fixes files
+## Lints and fixes files
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Production ready
+* For VueCli applications cli will provide commands to make application ready for production support.
